@@ -2,7 +2,7 @@
 
 Backend & platform engineer from Ukraine, based in Warsaw. I like building things that make other engineers' lives easier — internal platforms, developer tooling, observability pipelines, that kind of stuff.
 
-Mostly writing Go, occasionally gluing things together with Python or Bash. Big fan of Kubernetes, eBPF, and making infrastructure costs go down. 8x Linux Foundation certified.
+Mostly writing Go, occasionally gluing things together with Rust. Big fan of Kubernetes, eBPF, and making infrastructure costs go down. 8x Linux Foundation certified.
 
 ## Tech Stack
 
