@@ -43,14 +43,9 @@ Mostly writing Go, occasionally gluing things together with Python or Bash. Big 
 
 ## GitHub Stats
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=starkross&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starkross&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=starkross&theme=transparent&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=starkross&theme=tokyonight&hide_border=true" />
-
-## Let's connect
+## Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rostkhaniukov/)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/rostyslav-khaniukov/badges)
